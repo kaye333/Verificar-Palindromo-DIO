@@ -1,5 +1,6 @@
 #Variáveis e Tipos
-Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de Javascript que ministrei pela Digital Innovation One.
+
+Atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de Javascript pela Digital Innovation One.
 
 Atividade 1
 Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
@@ -16,11 +17,3 @@ Output -> [1, 3, 0, 0, 0, 33, 23, 0]
 Input -> []
 
 Output -> -1
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
